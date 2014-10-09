@@ -1,5 +1,6 @@
 require "numrb/version"
+require 'matrix'
 
 module Numrb
-  # Your code goes here...
+
 end
