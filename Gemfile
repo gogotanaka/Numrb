@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in numrb.gemspec
+gem 'pry'
+
 gemspec
